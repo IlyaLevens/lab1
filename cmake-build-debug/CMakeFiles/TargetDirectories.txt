@@ -1,0 +1,3 @@
+/Users/ilya/CLionProjects/laboratory1/cmake-build-debug/CMakeFiles/laboratory1.dir
+/Users/ilya/CLionProjects/laboratory1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ilya/CLionProjects/laboratory1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
